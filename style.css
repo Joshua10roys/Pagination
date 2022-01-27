@@ -1,0 +1,22 @@
+body{
+    background-image : linear-gradient(to right,rgb(45, 46, 49), rgb(68, 63, 63),rgb(40, 42, 48));
+}
+div#head{
+    margin: 20px;
+    text-align: center;
+    background: white;
+}
+p{
+    padding: 10px;
+    font-weight: bolder;
+}
+table{
+    background: white;
+    text-align: center;
+}
+th{
+    text-align: center;
+}
+div#button{
+    color: black;
+}
